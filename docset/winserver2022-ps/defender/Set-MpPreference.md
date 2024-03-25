@@ -213,6 +213,10 @@ Accept wildcard characters: False
 Specifies the states of attack surface reduction rules specified by using the **AttackSurfaceReductionRules_Ids** parameter.
 If you add multiple rules as a comma-separated list, specify their states separately as a comma-separated list.
 
+### -AttackSurfaceReductionRules_Actions
+Specifies the states of attack surface reduction rules specified by using the **AttackSurfaceReductionRules_Ids** parameter.
+If you add multiple rules as a comma-separated list, specify their states separately as a comma-separated list.
+
 ```yaml
 Type: ASRRuleActionType[]
 Parameter Sets: (All)
